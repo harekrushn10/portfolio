@@ -78,3 +78,10 @@ Open a Pull Request
 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify it.
+
+## 🚀 Getting Started
+
+### 🔹 Clone the Repository
+```bash
+git clone https://github.com/harekrushn10/portfolio.git
+cd portfolio
